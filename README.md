@@ -1,4 +1,5 @@
 # STUDY_1_CLEAN_CODE
+![클린코드표지](https://github.com/DAC13/STUDY_1_CLEAN_CODE/assets/56371387/0ce8a145-69fc-4349-9f4f-4f82eeeca9a9)   
 `클린코드`를 공부한 내용들을 나눕니다.
 
 ## 스터디 슬로건
